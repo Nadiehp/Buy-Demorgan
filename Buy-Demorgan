@@ -1,5 +1,5 @@
 local args = {
-    [1] = "Demigaga"
+    [1] = "Demogorgan"
 }
 
 game:GetService("ReplicatedStorage").RemoteEvents.BuyItemCash:FireServer(unpack(args))
